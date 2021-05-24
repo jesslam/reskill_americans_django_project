@@ -1,3 +1,3 @@
 # reskill_americans_django_project
 
-![Assignment Screenshot](assignment_screenshot.png)
+![Intro to Models Assignment Screenshot](models_assignment_screenshot.png)
